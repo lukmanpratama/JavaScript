@@ -1,12 +1,7 @@
 
 
 
-// var jumlah = 100
-// var nilai = 1
-// while(nilai <= jumlah){
-//     console.log('qwertyuio')
-//     nilai++
-// }
+
 
 
 // for(var i = 1; i <= 10; i++){
